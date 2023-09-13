@@ -6,7 +6,7 @@ This repository will store dashboards organized by thematics. Each folder is an 
 
 ### Dashboards
 
-**1. Historic data analysis of the video games industry**
+**1. Historic data analysis of the video games industry (Ventas de video juegos)**
 
 ![Video_games](https://github.com/lgcortesif/Portfolio_Power_BI/assets/12937809/ce8179b2-60e0-4450-8da2-8a4862088d37)
 
@@ -18,7 +18,7 @@ This repository will store dashboards organized by thematics. Each folder is an 
 
 
 
-**2. World population demographic and social statistics**
+**2. World population demographic and social statistics (World demographic metrics)**
 
 ![World_demographic7](https://github.com/lgcortesif/Portfolio_Power_BI/assets/12937809/3870b00c-4323-4f77-a7cd-efc821e40872)
 
