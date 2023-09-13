@@ -24,6 +24,9 @@ This repository will store dashboards organized by thematics. Each folder is an 
 
 -> [Access to the dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjdkNzE3MmMtNTdhYi00NmQzLWI4NDEtMjk5ODkxYzM3NDlmIiwidCI6ImVmNGE2ODRlLTgxYjUtNDkxYy1hOThlLWM3YjMxYmU2YzQ2OSIsImMiOjh9)
 
+<p align="justify">The previous dashboard analyzes the demographic situation by country and by continent using three metrics; all of them located on the top of the board to give to the users the option to tune the metrics as a controller. The intuitiveness on the design help users to unlock the possibility to start performing the analysis as a supervisors, giving them the power to check all the situation in a simple glance.</p>
+
+<p align="justify">At the beginning of the process, an ETL routine were placed as a door from the raw data and the data ready to be consumed by the BI board. This is the reason why new columns were added to the original tables to scale the analysis grouping numbers by range cathegories. As an example, the BI-board could show the countries, grouped by the correspondent continent, in terms of the life expectancy.</p>
 
 
 
