@@ -14,6 +14,8 @@ This repository will store dashboards organized by thematics. Each folder is an 
 
 The previous dashboard analyzes the data collected from the selling sector of video games all over the world by different cathegories. In order to unlock the study of the data, the raw files were processed by transforming the columns by each cathegory separated. Finally, the data, allocated in one table, were classificated into five cathegories: by year, by region, by platform, by gander and by editorial.
 
+Finally, the dashboard shows, in a simple glance, the status over the selling situation all across the previous five cathegories and its combinations. The KPIs performed, all of them managed in the control pannel on the top of the board, intuitively change the values of five tied pannles. from left to right to the bottom, the first pannel shows   
+
 
 
 **2. World population demographic and social statistics**
